@@ -1,0 +1,5 @@
+package com.api.rabbitmq.producer;
+
+public class PedidoSucessoProdutor {
+
+}

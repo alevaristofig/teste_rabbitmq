@@ -1,0 +1,5 @@
+package com.api.rabbitmq.consumer;
+
+public class PedidoRequestConsumidor {
+
+}
